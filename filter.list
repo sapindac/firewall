@@ -7,10 +7,6 @@ https://iplists.firehol.org/files/blocklist_net_ua.ipset
 https://iplists.firehol.org/files/ciarmy.ipset
 https://iplists.firehol.org/files/cybercrime.ipset
 https://iplists.firehol.org/files/bruteforceblocker.ipset
-https://iplists.firehol.org/files/dronebl_auto_botnets.ipset
-https://iplists.firehol.org/files/dronebl_autorooting_worms.ipset
-https://iplists.firehol.org/files/dronebl_ddos_drones.ipset
-https://iplists.firehol.org/files/dronebl_worms_bots.ipset
 https://iplists.firehol.org/files/dshield.netset
 https://iplists.firehol.org/files/dshield_1d.netset
 https://iplists.firehol.org/files/et_block.netset
