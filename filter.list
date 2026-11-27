@@ -23,6 +23,10 @@ https://iplists.firehol.org/files/spamhaus_drop.netset
 https://iplists.firehol.org/files/spamhaus_edrop.netset
 
 # https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/inbound.txt #~57Mb
-https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/outbound.txt
+# https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/outbound.txt #~1.5Mb
+
+https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/tables/inbound/networks.txt
+https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/tables/outbound/networks.txt
+
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
 https://sigs.interserver.net/iprbl.txt
