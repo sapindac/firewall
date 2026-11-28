@@ -8,6 +8,8 @@ https://iplists.firehol.org/files/dshield_1d.netset
 https://iplists.firehol.org/files/et_block.netset
 https://iplists.firehol.org/files/firehol_level1.netset
 https://iplists.firehol.org/files/firehol_level3.netset
+https://iplists.firehol.org/files/firehol_webclient.netset
+https://iplists.firehol.org/files/firehol_webserver.netset
 https://iplists.firehol.org/files/ipsum_3.ipset
 https://iplists.firehol.org/files/iblocklist_pedophiles.netset
 https://iplists.firehol.org/files/myip.ipset
@@ -18,14 +20,6 @@ https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/tables/
 https://raw.githubusercontent.com/bitwire-it/ipblocklist/refs/heads/main/tables/outbound/networks.txt
 
 https://raw.githubusercontent.com/stamparm/ipsum/master/levels/1.txt
+https://raw.githubusercontent.com/stamparm/ipsum/master/levels/3.txt
+https://feodotracker.abuse.ch/downloads/ipblocklist.txt
 https://sigs.interserver.net/iprbl.txt
-
-# https://iplists.firehol.org/files/blocklist_de.ipset
-# https://iplists.firehol.org/files/blocklist_de_bruteforce.ipset
-# https://iplists.firehol.org/files/blocklist_de_ssh.ipset
-# https://iplists.firehol.org/files/bruteforceblocker.ipset
-# https://iplists.firehol.org/files/et_compromised.ipset
-# https://iplists.firehol.org/files/firehol_level2.netset
-# https://iplists.firehol.org/files/greensnow.ipset
-# https://iplists.firehol.org/files/iblocklist_ciarmy_malicious.netset
-
